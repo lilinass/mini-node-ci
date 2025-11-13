@@ -10,3 +10,4 @@ describe("sum", () => {
     expect(() => sum("2", 3)).toThrow(TypeError);
   });
 });
+//comment
